@@ -1,5 +1,6 @@
 # Calculo_aposentadoria_idade
 Este projeto destina-se à realizar cálculo de tempo de contribuição e da idade do trabalhador.
+
 Cálculo de Tempo de Contribuição para Aposentadoria por Idade. 
 
 Este projeto tem como objetivo auxiliar trabalhadores a verificarem se já atendem aos requisitos mínimos para solicitar aposentadoria por idade, conforme as regras do INSS. A aplicação coleta dados pessoais e históricos de trabalho, calcula o tempo total de contribuição e a idade atual, e gera um relatório em PDF com os resultados. Observação : Este projeto não substitui a análise de  um Profissional da área ou da autarquia responsável (INSS).
